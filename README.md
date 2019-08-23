@@ -8,7 +8,7 @@ Django Girls é uma organização sem fins lucrativos e uma comunidade que capac
 
 Durante cada um dos eventos, 30 a 60 mulheres criam sua primeira aplicação web usando HTML, CSS, Python e Django com apoio do material do [tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
-Fonte: [DjangoGirls.org]((https://github.com/pyladiesdf/DjangoGirls)
+Fonte: [DjangoGirls.org](https://github.com/pyladiesdf/DjangoGirls)
 
 
 ### O que é PyLadies?
@@ -35,7 +35,7 @@ mais infos : http://df.pyladies.com/
 
 Foto oficial:
 
-![Foto oficial DG 2018]()
+![Foto oficial DG 2018](https://raw.githubusercontent.com/pyladiesdf/DjangoGirls/master/imagens/dgdf2018.jpg)
 
 ### Django Girls DF 2019
 
@@ -46,4 +46,4 @@ Foto oficial:
 
 Foto oficial:
 
-![Foto oficial DG 2019]()
+![Foto oficial DG 2019](https://raw.githubusercontent.com/pyladiesdf/DjangoGirls/master/imagens/dgdf2019.jpg)

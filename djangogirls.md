@@ -8,7 +8,7 @@
 - Leitura essencial para os organizadores: [Manual das organizadoras do Django Girls](https://organize.djangogirls.org/)
 - Organizar atividades como issues no Github para que outras Pyladies possam ajudar também
 - Fazer bom uso das mídias socias: [Instagram](https://instagram.com/pyladiesdf), [Twitter](https://twitter.com/pyladiesdf), [Facebook](https://www.facebook.com/pyladiesdf/), [Linkedin](https://www.linkedin.com/company/pyladies-df/) e o site da [Pyladies DF](http://df.pyladies.com)
-- Definir [local do evento]() com antecedência
+- Definir [local do evento](#local-do-evento) com antecedência
 - Ler os *feedbacks* dos eventos anteriores
 - Criar um formulário de *feedback* ao fim do evento
 - Documentar aprendizados
@@ -32,7 +32,7 @@
 - Atualizar documento de patrocínio para enviar e apresentar para possíveis patrocinadores
 - Atualizar e assinar termo de parceria com as informações das PyLadies representantes
 - Ter uma pessoa responsável que se registre na [Associação Python Brasil (APyB)](https://associacao.python.org.br/) para emissão de nota fiscal aos patrocinadores
-- É importante ser membro da APyB antes de procurar patrocinadores, pois a [emissão de nota fiscal é realizada pela APyB]()
+- É importante ser membro da APyB antes de procurar patrocinadores, pois a [emissão de nota fiscal é realizada pela APyB](#emissão-de-nota-fiscal)
 
 
 ## Emissão de Nota Fiscal
@@ -56,7 +56,7 @@
 - Verificar quantidade de mesas e cadeiras, tamanho de mesas se necessário
 - **MEGA IMPORTANTE**: saber a infraestrutura do local, **internet**, tomadas
 - Checar banheiros, quantidade de lixos, lugar para beber água, espaço para o almoço e o *coffee break*
-- Um espaço para [abertura e fechamento]() do evento (até então aconteceu em auditórios)
+- Um espaço para [abertura e fechamento](#abertura-e-fechamento-do-evento) do evento (até então aconteceu em auditórios)
 
 ## No dia do evento
 
