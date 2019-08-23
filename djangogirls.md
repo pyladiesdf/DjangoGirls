@@ -61,6 +61,10 @@
 ## No dia do evento
 
 - Levar preparado o material offline em *pen drives* também porque nunca se pode confiar 100% na rede do local
+- Mais de uma pessoa responsável por tirar fotos
+- Fazer o depoimento de participantes voluntárias
+- Ter impresso os Termos de Uso de Imagem das participantes, das crianças, monitoras e organização
+- Cuidar da [limpeza]()
 
 
 ## Abertura e Fechamento do evento
@@ -68,3 +72,9 @@
 - Checar luzes, quantidade de cadeiras
 - Utilização de retroprojetor, caixa de som e microfone
 - Saber se o espaço tem internet para providenciar ou se antecipar quanto as apresentações dos patrocinadores
+
+
+## Limpeza do evento
+
+- Trocar os sacos das lixeiras
+- Levar produtos de limpeza caso seja necessário para o espaço de *coffee break* ou almoço
