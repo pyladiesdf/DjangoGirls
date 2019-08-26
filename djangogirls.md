@@ -1,14 +1,44 @@
 # Organização do evento Django Girls DF
 
+Este documento possui algumas sugestões e direcionamentos baseados nas organizações do 1º e 2º Django Girls DF.
+
+## Sumário
+
+  [Organização](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#organiza%C3%A7%C3%A3o
+)
+
+ [Monitoras](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#monitoras)
+ 
+ [Participantes](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#participantes)
+ 
+ [Patrocinadores](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#patrocinadores)
+ 
+ [Emissão de nota fiscal](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#emiss%C3%A3o-de-nota-fiscal)
+ 
+ [Reembolso](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#reembolso)
+ 
+ [Local do Evento](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#local-do-evento)
+ 
+ [No dia do Evento](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#no-dia-do-evento)
+ 
+ [Abertura e Fechamento](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#abertura-e-fechamento-do-evento)
+ 
+ [Limpeza do evento](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md#limpeza-do-evento)
+ 
+ [Pré Django](https://github.com/pyladiesdf/DjangoGirls/blob/master/predg.md)
+ 
+ [Pós Django](https://github.com/pyladiesdf/DjangoGirls/blob/master/posdg.md)
 
 ## Organização
 
 - Sugestão: começar a organizar o evento pelo menos 5 meses antes
-- Cadastrar o evento no site oficial da organização do Django Girls com pelo menos **3 meses** de antecedência no [link](https://djangogirls.org/organize/)
+- Definir [local do evento](#local-do-evento) com antecedência
+- Cadastrar o evento no site oficial da organização do Django Girls com pelo menos **3 meses** de antecedência no [link](https://djangogirls.org/organize/), quando houver confirmação do **LOCAL DO EVENTO** e a **CAPACIDADE**
 - Leitura essencial para os organizadores: [Manual das organizadoras do Django Girls](https://organize.djangogirls.org/)
 - Organizar atividades como issues no Github para que outras Pyladies possam ajudar também
 - Fazer bom uso das mídias socias: [Instagram](https://instagram.com/pyladiesdf), [Twitter](https://twitter.com/pyladiesdf), [Facebook](https://www.facebook.com/pyladiesdf/), [Linkedin](https://www.linkedin.com/company/pyladies-df/) e o site da [Pyladies DF](http://df.pyladies.com)
-- Definir [local do evento](#local-do-evento) com antecedência
+- Deixar de forma explícita que o evento acolhe TODAS as mulheres (cis e trans). No site oficial do django existe sugestão [https://djangogirls.org/faq/#Django_Girls_trans_inclusive](aqui). Também deixar claro que mais terão espaços para os seus filhos e que serão mobilizadas caronas para tentar facilitar a locomoção de todas
+- Criar grupo para organização de caronas entre participantes, organização e monitoras
 - Ler os *feedbacks* dos eventos anteriores
 - Criar um formulário de *feedback* ao fim do evento
 - Documentar aprendizados
@@ -18,13 +48,93 @@
 ## Monitoras
 
 - Leitura essencial para os organizadores: [Manual das monitoras do Django Girls](https://coach.djangogirls.org/)
+- Criar um grupo no whatsapp
 - Importante que as monitoras saibam fazer o tutorial no linux e no Windows. Principalmente no Windows, até então esteve em maior quantidade
+- A quantidade de monitoras, embora esteja na proporção 1 para cada 3 participantes no site oficial, deve-se atentar para ter algumas meta-monitoras e uma "gordura" para possíveis faltas no evento.
+- No dia do evento, as monitoras que puderem devem levar notebooks para emprestar para participantes que não possuem
+
+### Treinamento das Monitoras
+
+Sugerimos o treinamento de monitoras dividida em pelo menos dois dias. Algumas pautas que podem ser abordadas:
+- Instruira baixar e instalar dependência com as participantes antes do dia do evento (marcar um hangouts e aproveitar também para conhecê-las).
+- Avisar que cada monitora terá 3 participantes. 
+- Fazer um grupo com as participantes para poder fazer maior contato antes do evento, as monitoras serão "líderes de torcida" que estarão motivando essas participantes para que cheguem no evento confortáveis :).
+- pedir para que se a participante não puder ir, avisar para podermos pegar a próxima da lista. 
+
+No dia do evento, é importante que as monitoras tenham em mente:
+- Ser cordial
+- Ter paciência
+- Quando a participante tiver uma dúvida, não é pra resolver o problema. O ideal é fazer perguntas direcionadoras.
+- Evitar ao máximo mexer no computador da participante. Resolver os problemas no teclado.
+- Se for necessário para resolver alguma coisa, sempre falar o que está sendo feito. 
+- Se perceber que alguma participante estiver desconfortável com alguma coisa, conversar individualmente e perguntar pra gente caso seja algo que não sabe como resolver.
+- As participantes podem ter níveis diferentes de conhecimento e de familiaridade, então é importante dar atenção pra todas mas tentando não segurar uma e nem correr com outra.
+- A monitora não precisa saber de tudo! Caso tenha dúvida perguntar para meta monitoras e também para a organização do evento.
+
+### Formulário para cadastro de monitoras
+
+As perguntas que sugerimos colocar (ao mínimo) no formulário de inscrição de monitoria são:
+
+- Nome completo
+- E-mail
+- Telefone
+- Qual área trabalha ou estuda?
+- Qual é a sua cidade? (ou região administrativa) 
+- Já realizou o tutorial Django Girls?
+- Qual o nível de conhecimento em python?
+- Qual o nível de conhecimento em HTML?
+- Por que quer ser monitora do Django Girls? 
+- Você tem alguma experiência anterior em ensino? Caso sim, conte-nos
+- Possui alguma restrição alimentar?
+- Possui disponibilidade nos dias X para realização de treinamento?
+- Existe alguma forma de tornarmos a sua participação mais confortável? Alguma restrição que devemos nos atentar?
 
 
 ## Participantes
 
-- Levar o notebook se necessário
-- Levar extensão ou réguas
+Para participantes, é importante a criação de um formulário de inscrição e um formulário para os filhos, bem como pedir para no dia do evento levarem:
+
+- Notebook se necessário
+- Extensão ou réguas
+
+### Formulário para inscrição de participantes
+
+As perguntas que sugerimos colocar (ao mínimo) no formulário de inscrição de participantes são:
+
+- Nome completo
+- E-mail
+- Telefone
+- Qual é a sua cidade? (ou região administrativa) 
+- Qual área trabalha ou estuda?
+- Qual a sua idade?
+- O seu computador possui qual sistema operacional? 
+- Já realizou o tutorial Django Girls?
+- Qual o seu nível de experiência em programação? 
+- Se você não se considera iniciante, pode contar pra gente um pouco sobre seu conhecimento em programação? 
+- Qual é a sua atual ocupação?
+- Por que você quer participar do workshop?
+- Possui alguma restrição alimentar?
+- Como você está planejando compartilhar o que aprender com outras pessoas?
+- Se for mãe, tem espaço para você e para o seu filho! Levará seu(s) filho(s) no dia?
+- Como você ficou sabendo sobre o Django Girls?
+- Existe alguma forma de tornarmos a sua participação mais confortável? Alguma restrição que devemos nos atentar? (Por favor, descreva)
+- É importante que todas as participantes cumpram o Código de Conduta do Django Girls (https://djangogirls.org/coc/pt-br/) 
+- Tem disponibilidade para participar do evento dia X, manhã e tarde no lugar Y? Entraremos em contato para confirmar a disponibilidade de caronas.
+
+### Formulário para inscrição de filhos
+
+Para as participantes que são mais, passar um formulário com as seguintes perguntas:
+
+- Nome do(s) filho(s)
+- Idades
+- O filho possui alguma restrição alimentar?
+- Existe alguma forma de tornarmos a participação do filho mais confortável? Alguma restrição que devemos nos atentar? (Por favor, descreva)
+
+
+### Seleção de participantes
+
+
+Importante levar em consideração alguns aspectos para priorizar as participantes, como: nível de conhecimento, se já se inscreveu em outras edições porém não participou do evento... entre outros
 
 ## Patrocinadores
 
