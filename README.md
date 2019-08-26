@@ -2,6 +2,8 @@
 
 Este é o repositório utilizado para apoiar a organização do Django Girls DF. O Django Girls DF é organizado pela nossa comunidade [Pyladies DF](http://df.pyladies.com).
 
+* [Como organizar o Django Girls no DF?](https://github.com/pyladiesdf/DjangoGirls/blob/master/djangogirls.md)
+
 ### O que é Django Girls?
 
 Django Girls é uma organização sem fins lucrativos e uma comunidade que capacita e ajuda as mulheres a organizar workshops gratuitos de programação de um dia fornecendo ferramentas, recursos e suporte. É uma organização de voluntários com centenas de pessoas que contribuem para trazer mulheres mais incríveis para o mundo da tecnologia. Estamos tornando a tecnologia mais acessível, criando recursos desenhados com empatia.
