@@ -37,7 +37,7 @@ Este documento possui algumas sugestões e direcionamentos baseados nas organiza
 - Leitura essencial para os organizadores: [Manual das organizadoras do Django Girls](https://organize.djangogirls.org/)
 - Organizar atividades como issues no Github para que outras Pyladies possam ajudar também
 - Fazer bom uso das mídias socias: [Instagram](https://instagram.com/pyladiesdf), [Twitter](https://twitter.com/pyladiesdf), [Facebook](https://www.facebook.com/pyladiesdf/), [Linkedin](https://www.linkedin.com/company/pyladies-df/) e o site da [Pyladies DF](http://df.pyladies.com)
-- Deixar de forma explícita que o evento acolhe TODAS as mulheres (cis e trans). No site oficial do django existe sugestão [https://djangogirls.org/faq/#Django_Girls_trans_inclusive](aqui). Também deixar claro que mais terão espaços para os seus filhos e que serão mobilizadas caronas para tentar facilitar a locomoção de todas
+- Deixar de forma explícita que o evento acolhe TODAS as mulheres (cis e trans). No site oficial do django existe sugestão [aqui](https://djangogirls.org/faq/#Django_Girls_trans_inclusive). Também deixar claro que mais terão espaços para os seus filhos e que serão mobilizadas caronas para tentar facilitar a locomoção de todas
 - Criar grupo para organização de caronas entre participantes, organização e monitoras
 - Ler os *feedbacks* dos eventos anteriores
 - Criar um formulário de *feedback* ao fim do evento
