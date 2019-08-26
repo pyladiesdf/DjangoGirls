@@ -123,7 +123,7 @@ As perguntas que sugerimos colocar (ao mínimo) no formulário de inscrição de
 
 ### Formulário para inscrição de filhos
 
-Para as participantes que são mais, passar um formulário com as seguintes perguntas:
+Para as participantes que são mães, passar um formulário com as seguintes perguntas:
 
 - Nome do(s) filho(s)
 - Idades
